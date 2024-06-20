@@ -564,7 +564,7 @@ main {
 .about_video-container {
 	display: flex;
 	justify-content: center;
-	background-image: url(/css/image/photo_video.jpg);
+	background-image: url(/css/image/photovideo.jpg);
 	background-position: center center;
 	background-size: 100%;
 }
