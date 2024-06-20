@@ -697,6 +697,22 @@ main {
 	border-radius: 0 50px 0 50px;
 }
 
+.popular {
+	display: flex;
+	padding: 100px 0;
+	max-width: 1920px;
+	max-height: 771px;
+}
+
+.popular_content {
+	margin: 0 auto;
+}
+
+.popular_swiper {
+	max-width: 1180px;
+	height: 500px;
+}
+
 @media (max-width: 1220px) {
 	.header_menu {
 		padding: 0 70px;
