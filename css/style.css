@@ -294,7 +294,7 @@ button {
 .start {
 	display: flex;
 	flex-direction: column;
-	background-image: url(/css/image/Rectangle\ 1.png);
+	background-image: url(/css/image/background.png);
 	background-image: aliceblue;
 	background-position: center center;
 	background-size: cover;
