@@ -294,7 +294,7 @@ button {
 .start {
 	display: flex;
 	flex-direction: column;
-	background-image: url(/css/image/background.png);
+	background-image: url(./css/image/background.png);
 	background-image: aliceblue;
 	background-position: center center;
 	background-size: cover;
@@ -564,7 +564,7 @@ main {
 .about_video-container {
 	display: flex;
 	justify-content: center;
-	background-image: url(/css/image/photovideo.jpg);
+	background-image: url(./css/image/photovideo.jpg);
 	background-position: center center;
 	background-size: 100%;
 }
@@ -639,15 +639,15 @@ main {
 }
 
 .offer_list-item:nth-of-type(1)::before {
-	background-image: url(/css/icon/icon_gid.svg);
+	background-image: url(./css/icon/icon_gid.svg);
 }
 
 .offer_list-item:nth-of-type(2)::before {
-	background-image: url(/css/icon/icon_shield.svg);
+	background-image: url(./css/icon/icon_shield.svg);
 }
 
 .offer_list-item:nth-of-type(3)::before {
-	background-image: url(/css/icon/icon_price.svg);
+	background-image: url(./css/icon/icon_price.svg);
 }
 .offer_list-title {
 	font-size: 18px;
