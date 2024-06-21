@@ -770,7 +770,7 @@ main {
 
 	.header_menu .header_menu-list {
 		flex-direction: column;
-		margin: 30px 40px;
+		margin-top: 40px;
 		margin-right: auto;
 		row-gap: 50px;
 		height: 154px;
