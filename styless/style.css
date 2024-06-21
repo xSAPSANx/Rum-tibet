@@ -576,7 +576,9 @@ main {
 }
 
 .icon_play {
+	margin: auto 0 auto 0;
 	width: 50px;
+	height: 50px;
 }
 
 .about_button {
