@@ -871,9 +871,6 @@ main {
 	}
 }
 
-@media (max-width: 768px) {
-}
-
 @media (max-width: 723px) {
 	form {
 		height: 340px;
