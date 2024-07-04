@@ -849,6 +849,12 @@ main {
 	text-align: left;
 }
 
+.travel_button {
+	max-width: 220px;
+	margin: 30px auto 0 auto;
+	padding: 16px 36px;
+}
+
 @media (max-width: 1220px) {
 	.header_menu {
 		padding: 0 70px;

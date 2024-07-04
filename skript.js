@@ -35,32 +35,32 @@ var swiper = new Swiper('.mySwiper', {
 		},
 	},
 })
-if (document.documentElement.clientWidth < 768) {
-	var swiper = new Swiper('.mySwiperTravel', {
-		slidesPerView: 3,
-		resistanceRatioX: 0.8,
-		direction: 'horizontal',
-		freeMode: true,
-		spaceBetween: 24,
-		initialSlide: 0,
-		keyboard: true,
-		autoplay: {
-			delay: 5000,
-			disableOnInteraction: false,
-		},
-		breakpoints: {
-			300: {
-				slidesPerView: 1,
-				spaceBetween: 24,
-			},
-			600: {
-				slidesPerView: 2,
-				spaceBetween: 24,
-			},
-			1000: {
-				slidesPerView: 3,
-				spaceBetween: 24,
-			},
-		},
-	})
-}
+// if (document.documentElement.clientWidth < 768) {
+// 	var swiper = new Swiper('.mySwiperTravel', {
+// 		slidesPerView: 3,
+// 		resistanceRatioX: 0.8,
+// 		direction: 'horizontal',
+// 		freeMode: true,
+// 		spaceBetween: 24,
+// 		initialSlide: 0,
+// 		keyboard: true,
+// 		autoplay: {
+// 			delay: 5000,
+// 			disableOnInteraction: false,
+// 		},
+// 		breakpoints: {
+// 			300: {
+// 				slidesPerView: 1,
+// 				spaceBetween: 24,
+// 			},
+// 			600: {
+// 				slidesPerView: 2,
+// 				spaceBetween: 24,
+// 			},
+// 			1000: {
+// 				slidesPerView: 3,
+// 				spaceBetween: 24,
+// 			},
+// 		},
+// 	})
+// }
