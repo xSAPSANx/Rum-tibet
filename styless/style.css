@@ -1233,7 +1233,7 @@ main {
 	}
 
 	.offer {
-		height: 700px;
+		height: 750px;
 	}
 
 	.popular {
@@ -1245,6 +1245,12 @@ main {
 @media (max-width: 545px) {
 	h1 {
 		font-size: 35px;
+	}
+}
+
+@media (max-width: 505px) {
+	.offer {
+		height: 800px;
 	}
 }
 
