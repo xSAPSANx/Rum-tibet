@@ -1094,12 +1094,14 @@ main {
 	}
 
 	#travel_swiper-slide img {
-		width: 100%;
+		width: 285px;
 		height: 280px;
 	}
 
-	.travel__slide-content {
+	.travel__slide-content,
+	.travel__slide-content-heading {
 		height: 200px;
+		width: 253px;
 	}
 
 	.travel__slide-content-bottom {
